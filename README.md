@@ -8,7 +8,7 @@ Sou Dev ainda dando os primeiros passos no mundo opensource, atualmente trabalha
 
 
  :mortar_board:  &nbsp; Estudante de Análise e Desenvolvimento de Sistemas, atualmente no quarto período.
- :rocket: &nbsp; Trabalho na **Accenture** 
+ <br/>:rocket: &nbsp; Atualmente trabalho na **Accenture** com Desenvolvimento de Soluções **SAP**/**ABAP**
  <br/> :blue_heart: &nbsp; Buscando conhecimento em tecnologias Back-end e um pouco de React Native :iphone:
  <br/> :blush: &nbsp; Posso te ajudar com C# ou JavaScript (bem básico ok)
  <br/> :computer: &nbsp; Minha stack: JavaScript, NodeJS, React Native, C#.
