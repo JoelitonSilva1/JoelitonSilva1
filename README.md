@@ -13,6 +13,6 @@ Sou Dev ainda dando os primeiros passos no mundo opensource, atualmente trabalha
  <br/> :blush: &nbsp; Posso te ajudar com C# ou JavaScript (bem básico ok)
  <br/> :computer: &nbsp; Minha stack: JavaScript, NodeJS, React Native, C#.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Valorant, FIFA, PUBG e Nesse momento curtindo muito WandaVision.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JoelitonSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joeliton-silva-20a790159/))](https://www.linkedin.com/in/joeliton-silva-20a790159/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JoelitonSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joeliton-silva-20a790159/)](https://www.linkedin.com/in/joeliton-silva-20a790159/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-joelitoncsilva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joelitoncsilva@gmail.com)](mailto:joelitoncsilva@gmail.com)
